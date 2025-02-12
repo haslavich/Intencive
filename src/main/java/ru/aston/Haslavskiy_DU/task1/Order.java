@@ -29,7 +29,7 @@ public abstract class Order implements Discount {
         this.id = id;
     }
     public void makeDiscount() {
-        //null
+        //logic of discount in StartApp.class for each Object
     }
         }
 
