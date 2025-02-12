@@ -15,6 +15,3 @@ public enum Service {
         return price;
     }
 }
-
-// test only test
-//second commit
