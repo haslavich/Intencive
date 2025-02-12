@@ -15,7 +15,3 @@ public enum Service {
         return price;
     }
 }
-
-// test only test
-
-// make second pull reqest
